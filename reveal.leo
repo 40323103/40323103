@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151118003800.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="123.20151118003828.1"><vh>@edit 2015cphww3.md</vh></v>
@@ -289,7 +289,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2759,22 +2759,22 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;W1 筆記&lt;/h1&gt;
     &lt;section&gt;
-    &lt;p&gt;1.先建立github倉儲,新增時Remade打勾
+        &lt;h1&gt;W1 筆記&lt;/h1&gt;
+        &lt;p&gt;1.先建立github倉儲,新增時Remade打勾
  2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
 3.git branch 索引自己的分支
 4.git branch gh-pages
 5.git branch
-6.git checkout gh-pages輸入指令
-  &lt;/section&gt;
-  &lt;section&gt;
-1.git add -A
+6.git checkout gh-pages輸入指令&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;p&gt;1.git add -A
 2.git commit -m "40323103"
 3.git push origin gh-pages
 4.輸入自己的帳號及密碼
 5.輸入網址確認是否成功&lt;/p&gt;
-    
+    &lt;/section&gt;
  &lt;/section&gt;
 				
 </t>
